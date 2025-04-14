@@ -1,0 +1,36 @@
+body {
+    background-color: #121212;
+    color: #ffffff;
+    font-family: 'Segoe UI', sans-serif;
+  }
+  .navbar {
+    border-bottom: 1px solid #333;
+  }
+  .nav-link.active {
+    background-color: #ff6f61;
+  }
+  .card {
+    background-color: #1e1e1e;
+    border: none;
+  }
+  .card img {
+    height: 200px;
+    object-fit: cover;
+  }
+  .card-title, .card-text {
+    color: #ddd;
+  }
+  .btn-primary {
+    background-color: #ff6f61;
+    border: none;
+  }
+  .carousel-item img {
+    height:400px;
+    object-fit: cover;
+    border-radius: 10px;;
+  }
+
+  .display-4 {
+    font-family: sans-serif;
+    font-weight: bold;
+  }
